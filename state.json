@@ -1,10 +1,16 @@
 {
  "v": 1,
  "sent": {
-  "401909326": [],
-  "401909327": [],
+  "401909326": [
+   "sniper"
+  ],
+  "401909327": [
+   "sniper"
+  ],
   "401909328": [],
-  "401909329": [],
+  "401909329": [
+   "sniper"
+  ],
   "401909330": [],
   "401909331": [],
   "401909332": [],
@@ -13,7 +19,38 @@
   "401909335": [],
   "401909336": []
  },
- "paper_picks": {},
+ "paper_picks": {
+  "401909326": {
+   "type": "SPREAD",
+   "side": "home",
+   "team": "New York Knicks",
+   "label": "New York Knicks -2.5",
+   "line": -2.5,
+   "odds": 1.91,
+   "status": "pending",
+   "date": "20261127"
+  },
+  "401909327": {
+   "type": "SPREAD",
+   "side": "home",
+   "team": "Detroit Pistons",
+   "label": "Detroit Pistons -10.0",
+   "line": -10.0,
+   "odds": 1.91,
+   "status": "pending",
+   "date": "20261127"
+  },
+  "401909329": {
+   "type": "TOTAL",
+   "side": "over",
+   "team": "Over",
+   "label": "Game Over 218.5",
+   "line": 218.5,
+   "odds": 1.91,
+   "status": "pending",
+   "date": "20261127"
+  }
+ },
  "stats": {
   "w": 0,
   "l": 0,
