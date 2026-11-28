@@ -38,8 +38,10 @@
    "label": "New York Knicks -2.5",
    "line": -2.5,
    "odds": 1.91,
-   "status": "pending",
-   "date": "20261127"
+   "status": "LOSS",
+   "date": "20261127",
+   "pnl": -1.0,
+   "final": "New York Knicks 105–108 Miami Heat"
   },
   "401909327": {
    "type": "SPREAD",
@@ -114,9 +116,9 @@
  },
  "stats": {
   "w": 0,
-  "l": 0,
+  "l": 1,
   "p": 0,
-  "units": 0.0
+  "units": -1.0
  },
  "odds_cache": [
   {
