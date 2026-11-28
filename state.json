@@ -3373,10 +3373,16 @@
  "odds_ts": "2026-11-28T03:47:28.799712+00:00",
  "ratings_cache": {
   "Milwaukee Bucks": {
-   "pf": 109.05,
-   "pa": 120.21,
+   "pf": 108.5,
+   "pa": 119.85,
    "w": 2,
-   "l": 17
+   "l": 18
+  },
+  "Brooklyn Nets": {
+   "pf": 110.17,
+   "pa": 119.17,
+   "w": 4,
+   "l": 14
   },
   "Charlotte Hornets": {
    "pf": 100.88,
@@ -3384,21 +3390,15 @@
    "w": 4,
    "l": 13
   },
-  "Brooklyn Nets": {
-   "pf": 110.76,
-   "pa": 118.88,
-   "w": 4,
+  "Indiana Pacers": {
+   "pf": 111.05,
+   "pa": 115.47,
+   "w": 6,
    "l": 13
   },
   "Chicago Bulls": {
    "pf": 116.39,
    "pa": 122.56,
-   "w": 6,
-   "l": 12
-  },
-  "Indiana Pacers": {
-   "pf": 112.39,
-   "pa": 115.72,
    "w": 6,
    "l": 12
   },
@@ -3409,9 +3409,9 @@
    "l": 12
   },
   "Toronto Raptors": {
-   "pf": 111.53,
-   "pa": 111.65,
-   "w": 6,
+   "pf": 112.22,
+   "pa": 111.0,
+   "w": 7,
    "l": 11
   },
   "Orlando Magic": {
@@ -3427,40 +3427,46 @@
    "l": 10
   },
   "Miami Heat": {
-   "pf": 119.71,
-   "pa": 118.94,
-   "w": 10,
+   "pf": 119.06,
+   "pa": 118.17,
+   "w": 11,
+   "l": 7
+  },
+  "Boston Celtics": {
+   "pf": 110.95,
+   "pa": 102.05,
+   "w": 12,
+   "l": 7
+  },
+  "New York Knicks": {
+   "pf": 109.37,
+   "pa": 103.42,
+   "w": 12,
    "l": 7
   },
   "Atlanta Hawks": {
-   "pf": 116.71,
-   "pa": 113.59,
-   "w": 11,
-   "l": 6
-  },
-  "Detroit Pistons": {
-   "pf": 112.82,
-   "pa": 107.24,
-   "w": 11,
-   "l": 6
-  },
-  "Boston Celtics": {
-   "pf": 112.33,
-   "pa": 102.89,
+   "pf": 115.06,
+   "pa": 112.06,
    "w": 12,
    "l": 6
   },
-  "New York Knicks": {
-   "pf": 109.61,
-   "pa": 103.17,
+  "Detroit Pistons": {
+   "pf": 112.83,
+   "pa": 106.72,
    "w": 12,
    "l": 6
   },
   "Philadelphia 76ers": {
-   "pf": 115.05,
-   "pa": 112.95,
-   "w": 15,
+   "pf": 114.85,
+   "pa": 111.65,
+   "w": 16,
    "l": 4
+  },
+  "Utah Jazz": {
+   "pf": 107.8,
+   "pa": 115.6,
+   "w": 3,
+   "l": 17
   },
   "Sacramento Kings": {
    "pf": 107.0,
@@ -3468,29 +3474,23 @@
    "w": 2,
    "l": 16
   },
-  "Utah Jazz": {
-   "pf": 107.84,
-   "pa": 115.37,
-   "w": 3,
-   "l": 16
-  },
-  "New Orleans Pelicans": {
-   "pf": 114.53,
-   "pa": 122.53,
-   "w": 5,
+  "LA Clippers": {
+   "pf": 109.56,
+   "pa": 116.67,
+   "w": 4,
    "l": 14
   },
-  "LA Clippers": {
-   "pf": 109.88,
-   "pa": 117.35,
-   "w": 4,
-   "l": 13
+  "New Orleans Pelicans": {
+   "pf": 114.05,
+   "pa": 121.6,
+   "w": 6,
+   "l": 14
   },
   "Phoenix Suns": {
-   "pf": 113.82,
-   "pa": 115.06,
+   "pf": 113.56,
+   "pa": 114.94,
    "w": 9,
-   "l": 8
+   "l": 9
   },
   "Oklahoma City Thunder": {
    "pf": 113.0,
@@ -3499,34 +3499,34 @@
    "l": 9
   },
   "Golden State Warriors": {
-   "pf": 112.22,
-   "pa": 111.94,
+   "pf": 111.26,
+   "pa": 112.16,
    "w": 10,
-   "l": 8
+   "l": 9
   },
   "Denver Nuggets": {
-   "pf": 116.0,
-   "pa": 115.5,
-   "w": 10,
+   "pf": 116.24,
+   "pa": 115.0,
+   "w": 11,
    "l": 6
   },
   "Dallas Mavericks": {
-   "pf": 112.83,
-   "pa": 111.83,
-   "w": 11,
+   "pf": 112.84,
+   "pa": 111.68,
+   "w": 12,
    "l": 7
   },
   "Portland Trail Blazers": {
-   "pf": 116.78,
-   "pa": 110.39,
-   "w": 12,
+   "pf": 116.74,
+   "pa": 109.53,
+   "w": 13,
    "l": 6
   },
   "Minnesota Timberwolves": {
-   "pf": 116.21,
-   "pa": 105.79,
+   "pf": 115.85,
+   "pa": 106.2,
    "w": 14,
-   "l": 5
+   "l": 6
   },
   "Houston Rockets": {
    "pf": 118.0,
@@ -3535,25 +3535,25 @@
    "l": 5
   },
   "Memphis Grizzlies": {
-   "pf": 120.05,
-   "pa": 110.68,
-   "w": 14,
+   "pf": 119.75,
+   "pa": 110.6,
+   "w": 15,
    "l": 5
   },
-  "San Antonio Spurs": {
-   "pf": 117.26,
-   "pa": 106.0,
+  "Los Angeles Lakers": {
+   "pf": 118.16,
+   "pa": 112.0,
    "w": 15,
    "l": 4
   },
-  "Los Angeles Lakers": {
-   "pf": 119.39,
-   "pa": 112.72,
-   "w": 15,
-   "l": 3
+  "San Antonio Spurs": {
+   "pf": 116.35,
+   "pa": 105.5,
+   "w": 16,
+   "l": 4
   }
  },
- "ratings_ts": "2026-11-27T18:45:21.297541+00:00",
+ "ratings_ts": "2026-11-28T06:55:47.705481+00:00",
  "radar_date": "20261128",
  "scorecard_date": null,
  "arb_sent": {}
