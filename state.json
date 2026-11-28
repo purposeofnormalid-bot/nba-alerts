@@ -88,8 +88,10 @@
    "label": "Game Over 220.0",
    "line": 220.0,
    "odds": 1.9,
-   "status": "pending",
-   "date": "20261127"
+   "status": "WIN",
+   "date": "20261127",
+   "pnl": 0.9,
+   "final": "Minnesota Timberwolves 109–114 Memphis Grizzlies"
   },
   "401909334": {
    "type": "SPREAD",
@@ -98,8 +100,10 @@
    "label": "Utah Jazz +9.5",
    "line": 9.5,
    "odds": 1.92,
-   "status": "pending",
-   "date": "20261127"
+   "status": "LOSS",
+   "date": "20261127",
+   "pnl": -1.0,
+   "final": "Utah Jazz 107–120 Denver Nuggets"
   },
   "401909335": {
    "type": "TOTAL",
@@ -123,10 +127,10 @@
   }
  },
  "stats": {
-  "w": 3,
-  "l": 1,
+  "w": 4,
+  "l": 2,
   "p": 0,
-  "units": 1.72
+  "units": 1.62
  },
  "odds_cache": [
   {
